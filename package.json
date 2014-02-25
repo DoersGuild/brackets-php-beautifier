@@ -1,0 +1,33 @@
+{
+    "name": "com.doersguild.brackets.phpbeautifier",
+    "version": "1.0.0",
+    "description": "PHP Beautifier for Brackets, based on the pear package",
+    "title": "PHP Beautifier",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DoersGuild/brackets-phpbeautifier.git"
+    },
+    "dependencies": {
+        "child_process": "*"
+    },
+    "keywords": [
+        "php",
+        "brackets",
+        "phpbeautifier",
+        "beautifier"
+    ],
+    "engines": {
+        "brackets": ">=0.30.0"
+    },
+    "author": {
+        "name": "Sathvik",
+        "email": "sathvik@doersguild.com",
+        "url": "http://doersguild.com/"
+    },
+    "homepage": "https://github.com/DoersGuild/brackets-phpbeautifier",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/doersguild/brackets-phpbeautifier/issues"
+    }
+}

@@ -1,0 +1,3 @@
+[submodule "PHP_Beautifier"]
+	path = PHP_Beautifier
+	url = git@github.com:clbustos/PHP_Beautifier.git
